@@ -12,7 +12,7 @@ def main():
     while True:
         plugged, percent = check_battery()
 
-        if plugged and (percent == 20 or percent > 90):
+        if plugged and percent > 90 or not plugged and percent < 20 :
             if percent == 20:
                 message = "Nivel de batería al 20%!"
             else:
