@@ -4,10 +4,10 @@ Do
     Set colItems = objWMIService.ExecQuery("Select * from Win32_Battery")
 
     For Each objItem in colItems
-        plugged = (objItem.BatteryStatus = 1)  ' True si está conectada, False si no lo está
+        unplugged = (objItem.BatteryStatus = 1) 
         percent = objItem.EstimatedChargeRemaining
 
-        If (Not plugged And percent > 85) Or (plugged And percent < 20) Then
+        If (Not unplugged And percent > 85) Or (unplugged And percent < 20) Then
             MsgBox "Battery Level: " & percent & "%", vbInformation, "Battery Checker"
         End If
     Next
