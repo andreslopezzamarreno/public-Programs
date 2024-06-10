@@ -1,9 +1,0 @@
-tkcalendar
-google-auth-oauthlib
-google-auth-httplib2
-google-auth
-google-api-python-client
-requests
-pywin32
-pickle-mixin
-google_auth_oauthlib
