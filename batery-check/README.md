@@ -6,9 +6,9 @@ Para que se lance siempre que se inicia el ordenador sigue estos sencillos pasos
 
 1. Crea un archivo de texto en cualquier lugar de tu computadora.
 
-2. Cambia la extensión del archivo de texto a `.vbs`
+2. Abre el archivo y pega el código que está en batery-checker.vbs
 
-3. Abre el archivo y pega el código que está en batery-checker.vbs
+3. Cambia la extensión del archivo de texto a `.vbs`
 
 4. Presiona las teclas **Win + R** para abrir el cuadro de diálogo "Ejecutar".
 
@@ -33,9 +33,9 @@ To ensure the application launches every time your computer starts, follow these
 
 1. Create a text file anywhere on your computer.
 
-2. Change the file extension from .txt to `.vbs`
+2. Open the file and paste the code found in batery-checker.vbs.
 
-3. Open the file and paste the code found in batery-checker.vbs.
+3. Change the file extension from .txt to `.vbs`
 
 4. Press **Win + R** to open the "Run" dialog.
 
