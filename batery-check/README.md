@@ -4,7 +4,7 @@ Esta aplicación proporciona notificaciones cuando el nivel de la batería está
 
 Para que se lance siempre que se inicia el ordenador sigue estos sencillos pasos:
 
-1. Crea un archivo de texto en cualquier lugar de tu computadora.
+1. Crea un archivo de texto en cualquier lugar de tu portatil.
 
 2. Abre el archivo y pega el código que está en batery-checker.vbs
 
